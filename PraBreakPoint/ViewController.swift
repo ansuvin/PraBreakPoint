@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  PraBreakPoint
-//
-//  Created by GSM11 on 2021/08/24.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -20,6 +13,9 @@ class ViewController: UIViewController {
         }
         
         print("총합은 \(self.sum), \(count)회 실행되었습니다.")
+        
+        print("hello!!!")
+        
     }
 
 
